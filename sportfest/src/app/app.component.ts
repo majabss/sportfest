@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Sportfest';
+  asdf = 42;
+  sadf: number;
+  
+  public abd(){
+    let as: string;
+    return 13;
+  }
 }
