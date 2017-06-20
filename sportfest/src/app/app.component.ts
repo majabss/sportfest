@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  imagePath = '/assets/images/tribune2.png';
-  atiwlogo = '/assets/images/atiw-bk_150x60.png';
+  headerImage = '/assets/images/tribune2.png';
+  atiwImage = '/assets/images/ATIW-BK 2016.jpg';
   title = 'Sportfest';
   year = '2017';
   asdf = 42;
